@@ -1,3 +1,6 @@
+# sqllite3 DB file
+*.db
+
 *.py[cod]
 
 # C extensions
