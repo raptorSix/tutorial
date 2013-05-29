@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 *.py[cod]
 *.pyc
 *.py~
 
 *.db
 
+=======
+# sqllite3 DB file
+*.db
+
+*.py[cod]
+
+>>>>>>> 062e6ccee97748770c7489cc874c6b937cdc0d5a
 # C extensions
 *.so
 
